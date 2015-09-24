@@ -1,0 +1,30 @@
+<style>
+
+
+
+.inputs {
+
+width: 300px;
+    position: absolute;
+    left: 500px;
+    top: 300px;
+
+}
+
+.name {
+
+color: red;
+    position: absolute;
+    left: -63px;
+
+}
+
+.age {
+
+
+color: red;
+    position: absolute;
+    left: -63px; 
+
+}
+</style>

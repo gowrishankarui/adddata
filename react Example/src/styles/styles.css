@@ -1,0 +1,29 @@
+/* #app{
+    background-color: red;
+} */
+
+.header{
+    font-size: 20px;
+    height: 100px;
+}
+
+nav {
+    text-align: left;
+    
+    
+}
+
+.heading{
+   text-align: center;
+   color: red;
+   font-size: 25px;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+.header a:hover{
+    text-decoration: none;
+}
